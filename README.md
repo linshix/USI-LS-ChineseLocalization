@@ -4,5 +4,12 @@ USI Life Support的汉化版本，完成了所有面板和组件的汉化，如�
 
 ## 使用方法
 首先确保已经正确安装原版USI-LS，下载本页面的文件，解压后将LifeSupport文件夹复制到游戏根目录下的GameData\UmbraSpaceIndustries下，并选择覆盖所有文件
+
+## 汉化演示
 ![20251211021050_1](https://github.com/user-attachments/assets/308d59db-e3e3-4fd5-8fb9-c979a1d75a72)
+![20251211021033_1](https://github.com/user-attachments/assets/4b9f0134-2740-4f1a-8eb8-3e59913c7911)
+![20251207210001_1](https://github.com/user-attachments/assets/5642da89-4d25-4e43-a5ec-0837960942db)
+
+
+
 
